@@ -31,6 +31,7 @@ class S3StoragePluginConfig extends PluginConfig {
                     'us-west-2' => 'US West (Oregon) Region',
                     'us-west-1' => 'US West (Northern California) Region',
                     'eu-west-1' => 'EU (Ireland) Region',
+                    'fr-par' => 'France (Paris)',
                     'ap-southeast-1' => 'Asia Pacific (Singapore) Region',
                     'ap-southeast-2' => 'Asia Pacific (Sydney) Region',
                     'ap-northeast-1' => 'Asia Pacific (Tokyo) Region',
